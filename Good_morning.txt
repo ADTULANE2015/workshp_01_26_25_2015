@@ -1,2 +1,4 @@
 Good Morning New Orleans
-qq
+I hope we learn Git
+How are we doing
+
